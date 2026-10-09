@@ -1,4 +1,6 @@
 # Smart Environment Analyzer 🌱
+
+![Smart Environment Analyzer running in VS Code](screenshot.png)
 ## About My Project
 This is a Python project I made while learning Python. I wanted to build something useful and practise the concepts I had learned.
 The program asks the user to enter five environmental measurements: temperature, humidity, light level, air quality, and noise level. It then checks the values, shows the condition of each measurement, and gives suggestions if something needs attention.
