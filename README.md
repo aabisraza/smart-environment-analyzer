@@ -9,32 +9,32 @@ The program asks the user to enter five environmental measurements: temperature,
 - Show the condition of each measurement.
 - Give suggestions when a measurement needs attention.
 - Show an overall environmental status.
-Check user inputs and reject invalid values.
-Handle decimal numbers as well as whole numbers.
+- Check user inputs and reject invalid values.
+- Handle decimal numbers as well as whole numbers.
 ## How Does It Work?
 The program uses conditions that I defined in the code to classify each measurement.
 It counts how many conditions need attention and then displays one of three overall results:
-Good: No conditions need attention.
-Needs Attention: One or two conditions need attention.
-Poor: Three or more conditions need attention.
+- **Good:** No conditions need attention.
+- **Needs Attention:** One or two conditions need attention.
+- **Poor:** Three or more conditions need attention.
 ## Python Concepts I Used
 While making this project, I practised:
 
-. Variables and user input
+- Variables and user input
 
-. while loops
+- while loops
 
-. if, elif, and else statements
+- if, elif, and else statements
 
-. try and except for handling invalid input
+- try and except for handling invalid input
 
-. Lists
+- Lists
 
-. Converting input into numbers using float()
+- Converting input into numbers using float()
 
-. Input validation and range checking
+- Input validation and range checking
 
-. Using Python's built-in math module to check for non-finite numbers.
+- Using Python's built-in math module to check for non-finite numbers.
 
 ## How to Run It
 
@@ -50,7 +50,7 @@ While making this project, I practised:
 4. Run the following command:
 
 
-     python smart_environment_analyzer.py
+     'python smart_environment_analyzer.py'
 
 
 
